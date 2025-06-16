@@ -220,7 +220,7 @@ Every expert was once a beginner. Every setback is just XP for your next attempt
 ### **Social Network Expansion** 🌐
 
 **Quality Connection Missions**
-- **Objective:** Expand beyond current low-motivation friend circle to access higher-energy social networks
+- **Objective:** Expand current friend circle to access higher-energy social networks
 - **Daily Quest:** Engage with one high-energy, goal-oriented person
 - **EXP Gained:** +2 CHA, +1 WIS daily
 - **Scientific Basis:** Social connections are the #1 predictor of happiness and longevity according to Harvard Study of Adult Development
